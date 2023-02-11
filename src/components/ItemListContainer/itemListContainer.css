@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@200&display=swap');
+
+.greetText{
+    font-size: 1rem;
+    font-family: 'Prompt', sans-serif;
+    margin: 20px;
+    text-align: center;
+    border: 2px solid #466D0B;
+    border-radius: 5px;
+    color: #4e4e4e;
+    box-shadow: 5px 5px 0px #466D0B;
+}
